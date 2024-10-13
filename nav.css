@@ -1,0 +1,7 @@
+.zai{
+    width: 1900px;
+    height: 800px;
+    background-color: rgb(8, 10, 10);
+    display: flex;
+    justify-content:space-between;
+}
